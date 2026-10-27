@@ -1,0 +1,208 @@
+{
+  "total_movies": 4803,
+  "total_genres": 20,
+  "vocabulary_size": 5000,
+  "avg_rating": 6.17,
+  "avg_runtime": 107.7,
+  "total_votes_analyzed": 3315117,
+  "genre_distribution": [
+    {
+      "name": "Drama",
+      "count": 2297
+    },
+    {
+      "name": "Comedy",
+      "count": 1722
+    },
+    {
+      "name": "Thriller",
+      "count": 1274
+    },
+    {
+      "name": "Action",
+      "count": 1154
+    },
+    {
+      "name": "Romance",
+      "count": 894
+    },
+    {
+      "name": "Adventure",
+      "count": 790
+    },
+    {
+      "name": "Crime",
+      "count": 696
+    },
+    {
+      "name": "Science Fiction",
+      "count": 535
+    },
+    {
+      "name": "Horror",
+      "count": 519
+    },
+    {
+      "name": "Family",
+      "count": 513
+    },
+    {
+      "name": "Fantasy",
+      "count": 424
+    },
+    {
+      "name": "Mystery",
+      "count": 348
+    }
+  ],
+  "rating_distribution": [
+    {
+      "range": "0-2",
+      "count": 73
+    },
+    {
+      "range": "2-4",
+      "count": 112
+    },
+    {
+      "range": "4-6",
+      "count": 1862
+    },
+    {
+      "range": "6-7",
+      "count": 1947
+    },
+    {
+      "range": "7-8",
+      "count": 759
+    },
+    {
+      "range": "8-10",
+      "count": 50
+    }
+  ],
+  "yearly_distribution": [
+    {
+      "year": "1998",
+      "count": 133
+    },
+    {
+      "year": "1999",
+      "count": 171
+    },
+    {
+      "year": "2000",
+      "count": 166
+    },
+    {
+      "year": "2001",
+      "count": 183
+    },
+    {
+      "year": "2002",
+      "count": 203
+    },
+    {
+      "year": "2003",
+      "count": 169
+    },
+    {
+      "year": "2004",
+      "count": 204
+    },
+    {
+      "year": "2005",
+      "count": 217
+    },
+    {
+      "year": "2006",
+      "count": 237
+    },
+    {
+      "year": "2007",
+      "count": 195
+    },
+    {
+      "year": "2008",
+      "count": 227
+    },
+    {
+      "year": "2009",
+      "count": 247
+    },
+    {
+      "year": "2010",
+      "count": 225
+    },
+    {
+      "year": "2011",
+      "count": 223
+    },
+    {
+      "year": "2012",
+      "count": 208
+    },
+    {
+      "year": "2013",
+      "count": 231
+    },
+    {
+      "year": "2014",
+      "count": 238
+    },
+    {
+      "year": "2015",
+      "count": 216
+    },
+    {
+      "year": "2016",
+      "count": 104
+    },
+    {
+      "year": "2017",
+      "count": 1
+    }
+  ],
+  "top_directors": [
+    {
+      "name": "Steven Spielberg",
+      "count": 27
+    },
+    {
+      "name": "Woody Allen",
+      "count": 21
+    },
+    {
+      "name": "Martin Scorsese",
+      "count": 20
+    },
+    {
+      "name": "Clint Eastwood",
+      "count": 20
+    },
+    {
+      "name": "Ridley Scott",
+      "count": 16
+    },
+    {
+      "name": "Robert Rodriguez",
+      "count": 16
+    },
+    {
+      "name": "Spike Lee",
+      "count": 16
+    },
+    {
+      "name": "Steven Soderbergh",
+      "count": 15
+    },
+    {
+      "name": "Renny Harlin",
+      "count": 15
+    },
+    {
+      "name": "Tim Burton",
+      "count": 14
+    }
+  ]
+}
